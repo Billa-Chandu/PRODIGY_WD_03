@@ -1,4 +1,4 @@
-# PRODIGY_WD_03
+# PRODIGY_WD_02
 ## Tic Tac Toe Web Application
 
 
@@ -13,12 +13,12 @@
 
 <p> Languages Used: HTML, CSS, & JavaScript </p>
 <h2>Preview: </h2>
-<p>This is preview of the project. You can visit live preview on <a href="https://deblinaroy11.github.io/PRODIGY_WD_03/" target="_blank"> Here. </a></p>
+<p>This is preview of the project. You can visit live preview on <a href="https://deblinaroy11.github.io/PRODIGY_WD_02/" target="_blank"> Here. </a></p>
 
 
 
 
-https://github.com/deblinaroy11/PRODIGY_WD_03/assets/137715845/5e27022f-093e-43b5-95b3-ede70d872fd0
+https://github.com/deblinaroy11/PRODIGY_WD_02/assets/137715845/5e27022f-093e-43b5-95b3-ede70d872fd0
 
 <h2>Code: </h2>
 
